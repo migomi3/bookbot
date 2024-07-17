@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+This is a practice project while I learn Backend
