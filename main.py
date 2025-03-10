@@ -1,6 +1,6 @@
 def generateReport(wordCount, charCount):
     print("--- Begin report of books/frankenstein.txt ---\n")
-    print(f"{wordCount} found in document.\n")
+    print(f"{wordCount} words found in the document.\n")
     for x in charCount:
         print(f"'{x['name']}' char was used {x['num']} times.")
     print("--- End report ---")
